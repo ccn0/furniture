@@ -1,6 +1,6 @@
 # FURNITURE
 
-All furniture ever produced for the Scratch project, 'Roomer.'
+A bunch of vector sprites of furniture. Initially used for a project called, "Roomer."
 
 All images are .SVG/Vector files.
 
